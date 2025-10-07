@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700">
+  <rect width="100%" height="100%" fill="#EAD7A4"/>
+  <g fill="#C58940">
+    <ellipse cx="300" cy="520" rx="700" ry="220"/>
+    <path d="M150 460 q150 -120 350 -40 q200 -80 450 20 q-80 -120 -700 -40" />
+  </g>
+  <g transform="translate(760,300)">
+    <path d="M0 120 q30 -60 80 -60 q50 0 80 60 q-60 -10 -160 0" fill="#8B5A2B"/>
+    <rect x="-10" y="120" width="140" height="8" fill="#7a4520"/>
+  </g>
+  <text x="40" y="80" font-family="Verdana" font-size="36" fill="#5C3A21">Jeunesse & Solidarité</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700">
+  <rect width="100%" height="100%" fill="#E3C79A"/>
+  <g fill="#A67B5B">
+    <ellipse cx="600" cy="560" rx="800" ry="200"/>
+    <path d="M50 480 q200 -180 400 -60 q200 -90 700 -30 q-400 -120 -1100 -40" />
+  </g>
+  <g transform="translate(200,320)">
+    <path d="M0 120 q30 -60 80 -60 q50 0 80 60 q-60 -10 -160 0" fill="#6B3E1E"/>
+  </g>
+  <text x="40" y="80" font-family="Verdana" font-size="36" fill="#4b2c17">Accès à l'eau</text>
+</svg>

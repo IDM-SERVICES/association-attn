@@ -1,0 +1,26 @@
+[
+  {
+    "id": "p1",
+    "title": "Programme de formation des jeunes",
+    "category": "Éducation",
+    "date": "2025",
+    "summary": "Formation professionnelle pour jeunes nomades.",
+    "details": "Programme de 12 semaines incluant alphabétisation et métiers traditionnels."
+  },
+  {
+    "id": "p2",
+    "title": "Accès à l'eau potable",
+    "category": "Eau",
+    "date": "2025",
+    "summary": "Construction et réhabilitation de puits.",
+    "details": "Installation de pompes manuelles et formation des comités de gestion."
+  },
+  {
+    "id": "p3",
+    "title": "Médiation et cohésion sociale",
+    "category": "Paix",
+    "date": "2025",
+    "summary": "Renforcement de la cohésion entre communautés.",
+    "details": "Ateliers culturels et dialogues intercommunautaires."
+  }
+]
